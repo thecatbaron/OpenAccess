@@ -1,5 +1,5 @@
 # Code Functionality
-This script informed the analysis of syllabus data for the 2021 published reasearch paper.
+This script informed the analysis of syllabus data for the 2021 published reasearch paper on copyright pricing for higher education course materials.
 The dataset is available at: https://datadryad.org/stash/landing/show?id=doi%3A10.5061%2Fdryad.pg4f4qrnj
 The paper is available at: https://journals.sfu.ca/cjhe/index.php/cjhe/article/view/189159
 
