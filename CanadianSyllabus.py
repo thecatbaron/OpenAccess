@@ -10,7 +10,6 @@ import slate3k as slate
 science = ['natural science', 'cosc','environmental science', 'engineering', 'physics', 'geology', 'geography',
            'chemistry', 'computer science', 'programming', 'comp', 'operating system',
            'aeronautics', 'astronautics', 'mathematic', 'math', 'biology', 'accounting']
-           'aeronautics', 'astronautics', 'mathematic', 'math', 'biology', 'accounting']
 social_science = ['social science','communication', 'admnistration', 'administrative studies', 'political science',
                   'economics', 'econ', 'business', 'psychology', 'public policy', 'anthropology', 'marketing',
                   'sociology']
